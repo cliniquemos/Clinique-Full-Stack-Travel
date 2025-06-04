@@ -3,14 +3,14 @@ I’m very passionate about traveling—so why not mix that with another love: b
 
 This app showcases my full-stack engineering skills—from building responsive, modern UIs to secure, scalable APIs.
 
-## 🌍 App Features
+## App Features
 
-- 🧳 Explore curated destinations with photos and descriptions  
-- 🗓️ Create and manage custom travel itineraries  
-- ✍🏾 Add personal notes or checklists for each trip  
-- 🔐 Register/login with secure JWT authentication  
-- 📱 Responsive layout for desktop and mobile  
-- 🔗 Seamless front-end and back-end API integration
+- Explore curated destinations with photos and descriptions  
+- Create and manage custom travel itineraries  
+- Add personal notes or checklists for each trip  
+- Register/login with secure JWT authentication  
+- Responsive layout for desktop and mobile  
+- Seamless front-end and back-end API integration
 
 ---
 
@@ -43,3 +43,58 @@ This app showcases my full-stack engineering skills—from building responsive, 
 cd backend
 dotnet restore
 dotnet run
+```
+## Frontend (React App)
+
+# Navigate to project root
+cd frontend
+
+# If you haven't already created the app, use:
+npx create-react-app frontend
+
+# Then install dependencies
+npm install
+
+# Start the development server
+npm start
+
+##  Project Folder Structure 
+
+```bash
+roamradar-travel-app/
+│
+├── backend/                  # .NET Core Web API
+│   ├── Controllers/
+│   ├── Models/
+│   ├── DTOs/
+│   ├── Services/
+│   ├── Data/
+│   └── Program.cs
+│
+├── frontend/                 # React Frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── context/
+│   │   └── App.js
+│   └── package.json
+│
+└── README.md                 # You're here
+```
+## Future Roadmap
+
+- Deploy frontend and backend via Azure App Services + Azure SQL
+- Add Google Maps route planning
+- Integrate calendar view for trip timelines
+- Export itineraries to PDF
+- Enable shared trips & group planning features
+- Screenshots (Coming Soon)
+
+Preview of the trip planner, destination cards, and mobile views.
+
+## Why I Built This
+
+I love tech, and I love to travel—so I built something that reflects both. This travel app is more than a project; it’s a practical, stylish app that solves a real-world problem while giving me the chance to flex both my front-end and back-end skills. I focused on writing clean code, designing reusable components, and structuring APIs that are easy to scale.
+
+npm start
