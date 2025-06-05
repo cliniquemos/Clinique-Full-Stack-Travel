@@ -98,7 +98,7 @@ Preview of the trip planner, destination cards, and mobile views.
 I love tech, and I love to travel—so I built something that reflects both. This travel app is more than a project; it’s a practical, stylish app that solves a real-world problem while giving me the chance to flex both my front-end and back-end skills. I focused on writing clean code, designing reusable components, and structuring APIs that are easy to scale.
 
 ![Frontend Code](./assets/screenshots/frontend-code.png)  
-![Backend Code](./assets/screenshots/frontend-code.png)  
+![Backend Code](https://github.com/cliniquemos/Clinique-Full-Stack-Travel/issues/3#issue-3119482989)  
 ![CSS](./assets/screenshots/frontend-code.png)  
 *React Trip Planner page with input, state management, and Tailwind styling.*
 
