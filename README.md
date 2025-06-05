@@ -99,3 +99,9 @@ I love tech, and I love to travel—so I built something that reflects both. Thi
 
 ![Frontend Code](./assets/screenshots/frontend-code.png)  
 *React Trip Planner page with input, state management, and Tailwind styling.*
+
+## App Preview
+
+This is a working screenshot of the Plan Your Next Trip feature. It allows users to type a city, click “Add Destination,” and have their trip plans saved dynamically to a list.
+
+![App Screenshot]()
