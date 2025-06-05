@@ -1,5 +1,5 @@
 # Clinique Full-Stack Travel App
-I’m very passionate about traveling—so why not mix that with another love: building great software? This is a sleek, full-stack travel planner app built with React, .NET Core, and SQL Server. Users can explore destinations, organize trips, and save personalized travel notes.
+I’m very passionate about traveling—so why not mix that with another love: building great software? This is a sleek, full-stack travel planner app built with React, .NET Core, and SQL Server. Users can explore destinations, organize trips, and save personalized travel notes. I didn't finish it, but it's a work in progress.
 
 This app showcases my full-stack engineering skills—from building responsive, modern UIs to secure, scalable APIs.
 
