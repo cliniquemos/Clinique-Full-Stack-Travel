@@ -104,4 +104,4 @@ I love tech, and I love to travel—so I built something that reflects both. Thi
 
 This is a working screenshot of the Plan Your Next Trip feature. It allows users to type a city, click “Add Destination,” and have their trip plans saved dynamically to a list.
 
-![App Screenshot]()
+![App Screenshot](https://github.com/cliniquemos/Clinique-Full-Stack-Travel/issues/1#issue-3119474435)
