@@ -99,8 +99,8 @@ I love tech, and I love to travel—so I built something that reflects both. Thi
 
 ![Frontend Code](https://github.com/cliniquemos/Clinique-Full-Stack-Travel/issues/2#issue-3119481722)  
 ![Backend Code](https://github.com/cliniquemos/Clinique-Full-Stack-Travel/issues/3#issue-3119482989)  
-![CSS](./assets/screenshots/frontend-code.png)  
-*React Trip Planner page with input, state management, and Tailwind styling.*
+![CSS](https://github.com/cliniquemos/Clinique-Full-Stack-Travel/issues/4#issue-3119484526) 
+
 
 ## App Preview
 
